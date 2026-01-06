@@ -1,7 +1,6 @@
 # 🎨 Conversation Canvas
 > **A collaborative real-time interview platform connecting developers worldwide.**
 
-![Project Banner](frontend/public/screenshot-for-readme.png)
 
 <div align="center">
 
