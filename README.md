@@ -1,4 +1,4 @@
-# 🎨 Conversation Canvas
+# 🗣️ Skill Sync
 > **A collaborative real-time interview platform connecting developers worldwide.**
 
 
