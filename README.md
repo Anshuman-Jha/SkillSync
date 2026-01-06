@@ -1,6 +1,7 @@
 # 🗣️ Skill Sync
 > **A collaborative real-time interview platform connecting developers worldwide.**
 
+![Project Banner](frontend/public/hero.png)
 
 <div align="center">
 
